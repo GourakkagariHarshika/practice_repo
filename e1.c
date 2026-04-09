@@ -11,6 +11,6 @@ int main() {
     }
 
     printf("Sum = %d\n", sum);
-printf("hi");
+
     return 0;
 }
